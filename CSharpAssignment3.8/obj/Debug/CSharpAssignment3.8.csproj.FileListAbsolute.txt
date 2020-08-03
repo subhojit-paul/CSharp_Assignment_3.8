@@ -1,0 +1,7 @@
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\bin\Debug\CSharpAssignment3.8.exe.config
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\bin\Debug\CSharpAssignment3.8.exe
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\bin\Debug\CSharpAssignment3.8.pdb
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\obj\Debug\CSharpAssignment3.8.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\obj\Debug\CSharpAssignment3.8.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\obj\Debug\CSharpAssignment3.8.exe
+F:\Training_Days\Training_DotNetConsoleApp\CSharpAssignment3.8\CSharpAssignment3.8\obj\Debug\CSharpAssignment3.8.pdb
